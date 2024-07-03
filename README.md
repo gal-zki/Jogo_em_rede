@@ -1,6 +1,10 @@
 # Jogo em rede
 
 ---------
+# O QUE É?
+Esse repositório apresenta um jogo da forca multijogador online. O projeto foi motivado por um trabalho desenvolvido na disciplina de redes de computadores 1, do curso de engenharia de computação. Há um código referente ao cliente e um código referente ao servidor. 
+
+---------
 # FUNCIONAMENTO	
 O programa é feito para que seja executado uma instância do servidor e 3 instâncias de clientes. Os clientes disputam entre si em 3 rodadas para ver quem faz mais pontos. 
 
